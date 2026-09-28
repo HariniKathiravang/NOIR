@@ -1,0 +1,20 @@
+1. Stock video of export fails 16s
+	2. Tamper proof --> economical --> universally trustable --> farm to fork traceability (Power Point) 10s
+	3. NOIR --> Noir box --> Storage --> L2 ---> Blinking Wifi 11s
+
+STACK AND HARDWARE 1s
+	4. Parts of Noir 26s
+	5. Harsh conditions, export transit stock videos  8s
+	6. MQTT --> Backend --> Merkle root --> L2 (Powe point) 10s
+	7. Dashboard walkthrough (UI) 18s
+WORKFLOW 1s
+	8. NOIR ACTUAL DATA VIDEO : Prototype --> sensors to MVP 12s
+	9. BLE Sensors 3s
+	10. C code highlight and caption editing 16s
+	11. Threshold alert UI 7s
+	12. LifePO4--> primary, solr/therm secindary (Power point) 10s
+	13. Hash function diagram (powerpoint) 7s
+	14. Merkle root flowchart 9s
+	15. L2 --> cost effective --> farmer work less (Powepoint clip art) 13s
+	16. Blockchain explanation videos 17s
+Compliance download(UI) 10s
